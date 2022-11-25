@@ -1,0 +1,10 @@
+C:\Users\ComputerLab4PC1\source\repos\Asuncion-ChallengeExercise-2\bin\Debug\Asuncion-ChallengeExercise-2.exe.config
+C:\Users\ComputerLab4PC1\source\repos\Asuncion-ChallengeExercise-2\bin\Debug\Asuncion-ChallengeExercise-2.exe
+C:\Users\ComputerLab4PC1\source\repos\Asuncion-ChallengeExercise-2\bin\Debug\Asuncion-ChallengeExercise-2.pdb
+C:\Users\ComputerLab4PC1\source\repos\Asuncion-ChallengeExercise-2\obj\Debug\Asuncion-ChallengeExercise-2.csprojAssemblyReference.cache
+C:\Users\ComputerLab4PC1\source\repos\Asuncion-ChallengeExercise-2\obj\Debug\Asuncion_ChallengeExercise_2.FrmRegistration.resources
+C:\Users\ComputerLab4PC1\source\repos\Asuncion-ChallengeExercise-2\obj\Debug\Asuncion_ChallengeExercise_2.FrmStudentRecord.resources
+C:\Users\ComputerLab4PC1\source\repos\Asuncion-ChallengeExercise-2\obj\Debug\Asuncion_ChallengeExercise_2.Properties.Resources.resources
+C:\Users\ComputerLab4PC1\source\repos\Asuncion-ChallengeExercise-2\obj\Debug\Asuncion-ChallengeExercise-2.csproj.GenerateResource.cache
+C:\Users\ComputerLab4PC1\source\repos\Asuncion-ChallengeExercise-2\obj\Debug\Asuncion-ChallengeExercise-2.exe
+C:\Users\ComputerLab4PC1\source\repos\Asuncion-ChallengeExercise-2\obj\Debug\Asuncion-ChallengeExercise-2.pdb
